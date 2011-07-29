@@ -1,3 +1,0 @@
-feature case {
-    sub @capdiacritics0 by @capdiacritics1;
-} case;

@@ -1,7 +1,0 @@
-lookup Swash {
-    sub @SWASH_BASIS by @SWASH;
-} Swash;
-
-feature swsh {
-    lookup Swash;
-} swsh;
