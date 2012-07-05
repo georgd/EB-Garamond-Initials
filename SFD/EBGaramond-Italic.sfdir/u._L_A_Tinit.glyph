@@ -1,9 +1,0 @@
-
-StartChar: u.LATinit
-Encoding: 1115002 -1 2158
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-AlternateSubs2: "v_alternates subtable" v.init v.alt v.initalt
-EndChar
