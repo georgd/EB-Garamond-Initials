@@ -1,5 +1,5 @@
 StartChar: quoteleft
-Encoding: 40 8216 42
+Encoding: 8216 8216 42
 Width: 0
 Flags: HW
 LayerCount: 2

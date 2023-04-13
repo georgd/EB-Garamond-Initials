@@ -1,5 +1,5 @@
 StartChar: space
-Encoding: 0 32 31
+Encoding: 32 32 31
 Width: 200
 VWidth: 1290
 Flags: HW

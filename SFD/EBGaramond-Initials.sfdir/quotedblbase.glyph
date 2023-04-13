@@ -1,8 +1,8 @@
 StartChar: quotedblbase
-Encoding: 8222 8222 32
+Encoding: 8222 8222 31
 Width: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 12 8221 N 1 0 0 1 0 -700 2
+Refer: 11 8221 N 1 0 0 1 0 -700 2
 EndChar

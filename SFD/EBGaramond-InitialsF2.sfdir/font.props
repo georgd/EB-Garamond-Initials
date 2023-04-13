@@ -9,8 +9,8 @@ Version: 0.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
-Ascent: 710
-Descent: 290
+Ascent: 1000
+Descent: 0
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -21,38 +21,41 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1312907347
-ModificationTime: 1681242117
+ModificationTime: 1681392510
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
 Panose: 4 6 5 5 7 2 3 2 2 4
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
+OS2TypoAscent: 1000
+OS2TypoAOffset: 0
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
 OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
+OS2WinAscent: 1000
+OS2WinAOffset: 0
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
+HheadAscent: 1000
+HheadAOffset: 0
 HheadDescent: 0
 HheadDOffset: 1
+OS2CapHeight: 1000
+OS2XHeight: 410
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 8 2
+WinInfo: 0 8 2
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

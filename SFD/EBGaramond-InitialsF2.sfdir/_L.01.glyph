@@ -1,5 +1,5 @@
 StartChar: L.01
-Encoding: 50 -1 50
+Encoding: 65536 -1 50
 Width: 1000
 Flags: HW
 LayerCount: 2

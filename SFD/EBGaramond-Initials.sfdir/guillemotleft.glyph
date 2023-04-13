@@ -1,11 +1,11 @@
 StartChar: guillemotleft
-Encoding: 171 171 41
+Encoding: 171 171 40
 Width: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 34 8249 S 1 0 0 1 -109 0 2
-Refer: 34 8249 N 1 0 0 1 0 0 2
+Refer: 33 8249 S 1 0 0 1 -109 0 2
+Refer: 33 8249 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 4 subtable" dx=-210 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 2 subtable" dx=-140 dy=0 dh=0 dv=0
 EndChar

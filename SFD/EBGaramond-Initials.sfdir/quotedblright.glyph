@@ -1,8 +1,8 @@
 StartChar: quotedblright
-Encoding: 8221 8221 12
+Encoding: 8221 8221 11
 Width: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 10 8220 N -1 0 0 -1 -274 1100 2
+Refer: 9 8220 S -1 0 0 -1 -274 1680 2
 EndChar
