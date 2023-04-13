@@ -21,8 +21,8 @@ languagesystem latn dflt;
 #     } ss01;
 
 @INITIALS = [ A-Z Adieresis Odieresis Udieresis L.01 ];
-@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg L.01bg ];
-@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg L.01fg ];
+@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg L.01.bg ];
+@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg L.01.fg ];
 
 
 lookup contextual_positioning {
