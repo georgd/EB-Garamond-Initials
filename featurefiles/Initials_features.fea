@@ -12,13 +12,6 @@ languagesystem latn dflt;
 # languagesystem latn CAT ;
 # languagesystem latn LAT ;
 
-# lookup ss01 {
-#     sub G by G.threeline;
-#     } ss01;
-# 
-# feature ss01 {
-#     lookup ss01;
-#     } ss01;
 
 @INITIALS = [ A-Z Adieresis Odieresis Udieresis L.01 ];
 @BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg L.01.bg ];
