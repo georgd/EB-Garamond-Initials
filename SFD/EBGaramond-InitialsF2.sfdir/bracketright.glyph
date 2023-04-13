@@ -1,0 +1,25 @@
+StartChar: bracketright
+Encoding: 31 93 35
+Width: 346
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+211 49 m 10
+ 58 49 l 26
+ 49 49 40 53 40 63 c 0
+ 40 73 53 79 66 80 c 2
+ 173 84 l 2
+ 188 84 201 100 201 119 c 2
+ 201 877 l 2
+ 201 904 192 914 174 916 c 2
+ 66 920 l 2
+ 53 922 40 924 40 936 c 24
+ 40 948 54 951 66 951 c 26
+ 218 951 l 18
+ 241 951 249 950 249 926 c 2
+ 249 83 l 2
+ 249 49 243 49 211 49 c 10
+EndSplineSet
+EndChar
