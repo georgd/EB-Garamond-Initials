@@ -1,0 +1,10 @@
+StartChar: question
+Encoding: 63 63 52
+Width: 263
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 49 191 N -1 0 0 -1 263 954 2
+Position2: "Single Positioning lookup 10 subtable" dx=0 dy=0 dh=263 dv=0
+Position2: "Single Positioning lookup 8 subtable" dx=-263 dy=0 dh=-263 dv=0
+EndChar
