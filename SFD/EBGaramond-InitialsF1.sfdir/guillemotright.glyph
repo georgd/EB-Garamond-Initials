@@ -1,0 +1,10 @@
+StartChar: guillemotright
+Encoding: 187 187 36
+Width: 318
+Flags: W
+LayerCount: 2
+Position2: "Single Positioning lookup 16 subtable" dx=0 dy=0 dh=318 dv=0
+Position2: "Single Positioning lookup 14 subtable" dx=-318 dy=0 dh=-318 dv=0
+Position2: "Single Positioning lookup 3 subtable" dx=-210 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=-140 dy=0 dh=0 dv=0
+EndChar

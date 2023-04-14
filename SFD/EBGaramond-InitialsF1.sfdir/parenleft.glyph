@@ -1,0 +1,8 @@
+StartChar: parenleft
+Encoding: 40 40 49
+Width: 280
+Flags: W
+LayerCount: 2
+Position2: "Single Positioning lookup 25 subtable" dx=0 dy=0 dh=280 dv=0
+Position2: "Single Positioning lookup 23 subtable" dx=-280 dy=0 dh=-280 dv=0
+EndChar

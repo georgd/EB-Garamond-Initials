@@ -1,0 +1,8 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 37
+Width: 209
+Flags: W
+LayerCount: 2
+Position2: "Single Positioning lookup 13 subtable" dx=0 dy=0 dh=209 dv=0
+Position2: "Single Positioning lookup 11 subtable" dx=-209 dy=0 dh=-209 dv=0
+EndChar

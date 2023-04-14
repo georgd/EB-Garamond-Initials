@@ -1,0 +1,8 @@
+StartChar: uni2E23
+Encoding: 11811 11811 46
+Width: 346
+Flags: HW
+LayerCount: 2
+Position2: "Single Positioning lookup 28 subtable" dx=0 dy=0 dh=346 dv=0
+Position2: "Single Positioning lookup 26 subtable" dx=-346 dy=0 dh=-346 dv=0
+EndChar
