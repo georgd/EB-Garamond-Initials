@@ -2,7 +2,7 @@ StartChar: dollar
 Encoding: 36 36 110
 Width: 1000
 VWidth: 1290
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet

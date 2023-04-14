@@ -538,4 +538,13 @@ SplineSet
  69.7197265625 163.190429688 65.150390625 153.459960938 62.1103515625 142.059570312 c 1
  122.5703125 178.16015625 144.790039062 196.450195312 176.059570312 240.290039062 c 1
 EndSplineSet
+AlternateSubs2: "L_variants subtable" L.01
+Position2: "Single Positioning lookup 27 subtable" dx=0 dy=0 dh=346 dv=0
+Position2: "Single Positioning lookup 24 subtable" dx=0 dy=0 dh=280 dv=0
+Position2: "Single Positioning lookup 21 subtable" dx=0 dy=0 dh=266 dv=0
+Position2: "Single Positioning lookup 18 subtable" dx=0 dy=0 dh=169 dv=0
+Position2: "Single Positioning lookup 15 subtable" dx=0 dy=0 dh=318 dv=0
+Position2: "Single Positioning lookup 12 subtable" dx=0 dy=0 dh=209 dv=0
+Position2: "Single Positioning lookup 9 subtable" dx=0 dy=0 dh=263 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=0 dy=0 dh=160 dv=0
 EndChar

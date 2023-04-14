@@ -1,5 +1,5 @@
 StartChar: J.fg
-Encoding: 65575 -1 80
+Encoding: 65574 -1 80
 Width: 1000
 Flags: HMW
 LayerCount: 2
@@ -23,4 +23,12 @@ SplineSet
  568.00390625 808.682617188 570.90234375 871.9609375 470.498046875 889.2109375 c 0
  464.74609375 890.174804688 462.821289062 898.798828125 470.498046875 898.798828125 c 2
 EndSplineSet
+Position2: "Single Positioning lookup 27 subtable" dx=0 dy=0 dh=346 dv=0
+Position2: "Single Positioning lookup 24 subtable" dx=0 dy=0 dh=280 dv=0
+Position2: "Single Positioning lookup 21 subtable" dx=0 dy=0 dh=266 dv=0
+Position2: "Single Positioning lookup 18 subtable" dx=0 dy=0 dh=169 dv=0
+Position2: "Single Positioning lookup 15 subtable" dx=0 dy=0 dh=318 dv=0
+Position2: "Single Positioning lookup 12 subtable" dx=0 dy=0 dh=209 dv=0
+Position2: "Single Positioning lookup 9 subtable" dx=0 dy=0 dh=263 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=0 dy=0 dh=160 dv=0
 EndChar

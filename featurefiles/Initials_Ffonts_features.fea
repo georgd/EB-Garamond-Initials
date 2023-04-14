@@ -14,9 +14,7 @@ languagesystem latn dflt;
 
 
 @INITIALS = [ A-Z Adieresis Odieresis Udieresis L.01 ];
-@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg L.01.bg ];
-@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg L.01.fg ];
-@ALL_LETTERS = [ @INITIALS @BACKGROUND @FOREGROUND ];
+@ALL_LETTERS = [ @INITIALS ];
 @EXCLAM = [ exclam exclamdown ];
 @QUESTION = [ question questiondown ];
 @PARENS = [ parenleft parenright ];
@@ -70,18 +68,3 @@ feature cv12 {
     lookup L_variants;
 } cv12;
 
-lookup use_background {
-    sub @INITIALS by @BACKGROUND;
-} use_background;
-
-feature ss01 {
-    lookup use_background;
-} ss01;
-
-lookup use_foreground {
-    sub @INITIALS by @FOREGROUND;
-} use_foreground;
-
-feature ss02 {
-    lookup use_foreground;
-} ss02;

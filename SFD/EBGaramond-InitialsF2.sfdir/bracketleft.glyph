@@ -22,4 +22,6 @@ SplineSet
  97 917 l 2
  97 951 103 951 135 951 c 10
 EndSplineSet
+Position2: "Single Positioning lookup 28 subtable" dx=0 dy=0 dh=346 dv=0
+Position2: "Single Positioning lookup 26 subtable" dx=-346 dy=0 dh=-346 dv=0
 EndChar

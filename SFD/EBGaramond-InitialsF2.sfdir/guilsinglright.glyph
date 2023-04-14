@@ -1,8 +1,10 @@
 StartChar: guilsinglright
 Encoding: 8250 8250 39
-Width: 0
+Width: 209
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 38 8249 S -1 0 0 -1 -219 999 2
+Refer: 38 8249 S -1 0 0 -1 209 999 2
+Position2: "Single Positioning lookup 13 subtable" dx=0 dy=0 dh=209 dv=0
+Position2: "Single Positioning lookup 11 subtable" dx=-209 dy=0 dh=-209 dv=0
 EndChar
